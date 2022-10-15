@@ -5,7 +5,7 @@
   <br>
   👀 &nbsp; I’m interested in <b>HLS Design Space Exploration</b> and <b>Resources Orchestration on Kubernetes Infrastructures</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
-  📫 &nbsp; You can reach me by sending an e-mail @<a href="mailto: aferikoglou@microlab.ntua.gr">aferikoglou@microlab.ntua.gr</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  📫 &nbsp; You can reach me by sending an e-mail at <a href="mailto: aferikoglou@microlab.ntua.gr">aferikoglou@microlab.ntua.gr</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
