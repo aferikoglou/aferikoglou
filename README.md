@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aggelos-ferikoglou-39624322a/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/aferikoglou/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
    &nbsp;
 </p>
