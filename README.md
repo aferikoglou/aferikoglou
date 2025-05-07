@@ -3,8 +3,3 @@
   <br>
   &nbsp; You can reach me by sending an e-mail at <a href="mailto: aferikoglou@microlab.ntua.gr">aferikoglou@microlab.ntua.gr</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aferikoglou/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
-   &nbsp;
-</p>
